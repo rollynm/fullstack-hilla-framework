@@ -1,0 +1,12 @@
+CrmEndpoint.ts
+com/example/application/data/endpoint/CrmEndpoint/CrmData.ts
+com/example/application/data/entity/Contact.ts
+com/example/application/data/entity/Company.ts
+com/example/application/data/entity/Status.ts
+com/example/application/data/entity/AbstractEntity.ts
+endpoints.ts
+com/example/application/data/endpoint/CrmEndpoint/CrmDataModel.ts
+com/example/application/data/entity/ContactModel.ts
+com/example/application/data/entity/CompanyModel.ts
+com/example/application/data/entity/StatusModel.ts
+com/example/application/data/entity/AbstractEntityModel.ts
